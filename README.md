@@ -1,6 +1,6 @@
-Employee Salary ALV Report
+**Employee Salary ALV Report**
 
-About the Project
+**About the Project**
 
 Employee Salary ALV Report is a beginner-level SAP ABAP project developed to understand the basic concepts of ALV reporting.
 
@@ -10,7 +10,7 @@ Project Objective
 
 The main objective of this project is to understand how a basic ABAP report is created and how internal table data can be displayed in an ALV report.
 
-Features
+**Features**
 
 - Displays employee details using ALV Grid
 - Uses an ABAP structure to define employee data
@@ -29,7 +29,7 @@ The report contains the following fields:
 - Salary
 - Location
 
-ABAP Concepts Used
+**ABAP Concepts Used**
 
 1. Structure
 
@@ -67,7 +67,7 @@ A field catalog is created to define the columns and headings displayed in the A
 
 "REUSE_ALV_GRID_DISPLAY" is used to display the employee data in an ALV Grid.
 
-Program Flow
+**Program Flow**
 
 User enters Department
         |
@@ -105,7 +105,7 @@ Employee ID| Name| Department| Salary| Location
 
 For example, if the user enters "IT" in the department field, the report displays the employees belonging to the IT department.
 
-Technologies Used
+**Technologies Used**
 
 - SAP ABAP
 - SAP GUI
@@ -115,7 +115,7 @@ Technologies Used
 - Structures
 - Work Areas
 
-Learning Outcomes
+**Learning Outcomes**
 
 Through this project, I learned how to:
 
@@ -128,17 +128,5 @@ Through this project, I learned how to:
 - Filter internal table data
 - Create an ALV field catalog
 - Display internal table data using ALV Grid
-
-Project Type
-
-Beginner SAP ABAP Project
-
-Future Improvements
-
-Possible future improvements include:
-
-- Reading employee data from a database table
-- Adding more selection options
-- Adding sorting and totals
 - Improving the ALV layout
 - Adding more employee-related fields
